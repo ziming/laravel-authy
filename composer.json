@@ -47,7 +47,7 @@
         "php": "^7.4.0",
         "guzzlehttp/guzzle": "^6.5.0|^7.0.1",
         "illuminate/support": "^7.0.0|^8.0.0",
-        "rinvex/authy": "^5.0.0"
+        "rinvex/authy": "dev-master"
     },
     "require-dev": {
         "codedungeon/phpunit-result-printer": "^0.28.0",
