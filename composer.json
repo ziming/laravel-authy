@@ -45,7 +45,7 @@
     ],
     "require": {
         "php": "^7.4.0",
-        "guzzlehttp/guzzle": "^6.5.0|^7.0.1",
+        "guzzlehttp/guzzle": "^7.0.1",
         "illuminate/support": "^7.0.0|^8.0.0",
         "rinvex/authy": "dev-master"
     },
